@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "name": "CinePulse Provider",
+      "packageName": "com.cinepulse.providers",
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "description": "CinePulse.cc streaming provider for CloudStream",
+      "download": "https://github.com/qwzsnn/CinePulse-CloudStream/releases/download/v1.0.0/app-release.apk",
+      "source": "https://github.com/qwzsnn/CinePulse-CloudStream",
+      "icon": "https://raw.githubusercontent.com/qwzsnn/CinePulse-CloudStream/main/icon.png"
+    }
+  ]
+}
